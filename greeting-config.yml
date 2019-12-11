@@ -1,6 +1,6 @@
 management:
     security:
-        enabled: false
+        enabled: true
 
 logging: # <----New sections below
     level:
