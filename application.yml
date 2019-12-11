@@ -1,9 +1,9 @@
 management:
   security:
-	enabled: false
+    enabled: false
 
 logging:
   level:
-	root: WARN
-	com:
-	  orangeandbronze: DEBUG
+    root: WARN
+    com:
+      orangeandbronze: DEBUG
